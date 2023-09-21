@@ -16,10 +16,11 @@ body {
     height: 100vh;
     background-image: url(../Imagens/fundo.jpg);
     background-size: cover;
+    background-repeat: none;
     background-attachment: fixed;
     background-position: left left;
     color: #fff;
-    width: 98vh;
+    
 }
 
 main {
