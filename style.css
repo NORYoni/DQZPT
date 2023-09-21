@@ -11,6 +11,9 @@ body{
     background-size: cover;
     background-attachment: fixed;
     background-position: left left;
+    display: flex;
+    justify-content: center;
+    
     
     
     
@@ -20,11 +23,13 @@ body{
 main{
     
     width: 600px;
-    margin: auto;
+    position: absolute;
     margin-top: 15%;
+    margin-bottom: 15%;
+    
     text-align: center;
     border-radius: 10px;
-    margin-bottom: 15%;
+    
     border: 1px solid white;
     
 }
